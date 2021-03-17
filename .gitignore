@@ -6,6 +6,9 @@
 Assets/AssetStoreTools*
 Assets/FacebookSDK*
 Assets/Firebase*
+Assets/Editor Default Resources*
+Assets/ExternalDependency*
+Assets/IronSource*
 
 # Visual Studio cache directory
 .vs/
