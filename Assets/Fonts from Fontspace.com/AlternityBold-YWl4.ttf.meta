@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e740a09fe16a1634ba008a692278688f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alternity
+  fontNames:
+  - Alternity
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d38e8191ed336b94995f748aef82ea75, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

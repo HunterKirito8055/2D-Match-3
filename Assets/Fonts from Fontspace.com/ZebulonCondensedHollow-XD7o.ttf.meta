@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d567bbb6bc12ce94189812f6e8ae040c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zebulon Condensed Hollow
+  fontNames:
+  - Zebulon Condensed Hollow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32f99f83e7460934ca9d9ccb87df6264, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

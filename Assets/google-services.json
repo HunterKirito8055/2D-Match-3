@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352984240186",
+    "project_id": "match3tiles",
+    "storage_bucket": "match3tiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352984240186:android:b99b675c4c404e4112e503",
+        "android_client_info": {
+          "package_name": "com.vishal.match"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352984240186-r94gljmb0kdid8dv84s0qnbq008p4kd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4d8nQTpG6IC4fPgwH3ab_2528nMtAaj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352984240186-r94gljmb0kdid8dv84s0qnbq008p4kd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: af7c3fe76b4730d40b639504c53df6a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zebulon Condensed
+  fontNames:
+  - Zebulon Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c022f00e6591d14c89c3f2e4409cd35, type: 3}
+  - {fileID: 12800000, guid: dcd90d129e9f33248be73afa02e25d53, type: 3}
+  - {fileID: 12800000, guid: f06c1385a5f0cc347ab39cf33c45e5b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
